@@ -1,0 +1,20 @@
+.Charts {
+
+    
+    .recharts-wrapper {
+        float: left;
+
+        .recharts-cartesian-axis-ticks {
+            font-size: 0.7rem;
+        }
+    }
+    
+    .clearfix {
+        clear: both;
+    }
+    
+    
+    .free_bikes, .empty_slots {
+        font-size: 2rem;
+    }
+}

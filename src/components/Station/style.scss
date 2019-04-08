@@ -1,0 +1,16 @@
+.Station {
+    width: 300px;
+    height: 80px;
+    border-radius: 10px;
+    background: rgb(235, 235, 235);
+    padding: 10px;
+    margin: 20px 20px 0 0;
+    float: left;
+    font-size: 0.8rem;
+    font-weight: 600;
+
+    &.empty {
+        background-color: rgba(249, 87, 87, 0.379);
+        color: white;
+    }
+}
